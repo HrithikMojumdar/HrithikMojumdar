@@ -1,7 +1,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif">
 
 ## Hi, I'm [Hrithik Mojumdar!](https://www.facebook.com/hrithikripto/) 👋
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HrithikMojumdar&label=Views&color=blue&style=plastic" alt="HrithikMojumdar" /> </p>
 <a href="https://twitter.com/HrithikMojumdar">
   <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -74,6 +74,9 @@
 <a href="https://github.com/HrithikMojumdar/github-readme-activity-graph"><img alt="Hrithik Mojumdar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HrithikMojumdar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <br/>
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=HrithikMojumdar">
+</a>
 
 <div align="center">
 
